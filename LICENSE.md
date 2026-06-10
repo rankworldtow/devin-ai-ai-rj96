@@ -1,4 +1,4 @@
-# 
+# Lightweight Devin AI presets. Featuring real-time-inference and hybrid-AI-models — optimized for maximum performance and efficiency.
 
 
 
